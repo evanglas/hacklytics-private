@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hacklytics-private/static/css/main.d13c671b.css",
-    "main.js": "/hacklytics-private/static/js/main.06e83eaa.js",
+    "main.js": "/hacklytics-private/static/js/main.d2e71a48.js",
     "static/js/592.db114e24.chunk.js": "/hacklytics-private/static/js/592.db114e24.chunk.js",
     "index.html": "/hacklytics-private/index.html",
     "main.d13c671b.css.map": "/hacklytics-private/static/css/main.d13c671b.css.map",
-    "main.06e83eaa.js.map": "/hacklytics-private/static/js/main.06e83eaa.js.map",
+    "main.d2e71a48.js.map": "/hacklytics-private/static/js/main.d2e71a48.js.map",
     "592.db114e24.chunk.js.map": "/hacklytics-private/static/js/592.db114e24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d13c671b.css",
-    "static/js/main.06e83eaa.js"
+    "static/js/main.d2e71a48.js"
   ]
 }
